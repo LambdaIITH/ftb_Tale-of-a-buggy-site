@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+   
+  .about-container{
+    font-family: 'VT323', monospace;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+    font-size: 40px;
+
+    height: calc(100vh - 100px); 
+    overflow: visible;
+  }
+  
+  h1{
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  p{
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
