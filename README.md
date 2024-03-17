@@ -27,3 +27,7 @@ Hint - Observe carefully :)
 The viewers cannot read this page properly. Analyze the issue properly and then fix it so that it looks good to the viewers of the site
 
 And finally, you get to the final secret that is waiting for you :)
+
+Hints-
+BUG2-css fix.
+BUG5-css fix. Note- BUG5 not similar to BUG2.
