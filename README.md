@@ -30,12 +30,12 @@ And finally, you get to the final secret that is waiting for you :)
 
 ## Hints-
 
-### BUG1-fix the import issue.
+### BUG1-check the app that is imported.
 
-### BUG2-css fix.
+### BUG2-do you need MARGIN of error for footer?
 
 ### BUG3-Understand the animation code written properly.
 
-### BUG4-Analyze the codebase again.
+### BUG4-Analyze the code __names__ properly.
 
 ### BUG5-css fix. Note- BUG5 not similar to BUG2.
