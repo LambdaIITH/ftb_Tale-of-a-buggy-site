@@ -29,8 +29,13 @@ The viewers cannot read this page properly. Analyze the issue properly and then 
 And finally, you get to the final secret that is waiting for you :)
 
 ## Hints-
+
 ###BUG1-fix the import issue.
+
 ###BUG2-css fix.
+
 ###BUG3-Understand the animation code written properly.
+
 ###BUG4-Analyze the codebase again.
+
 ###BUG5-css fix. Note- BUG5 not similar to BUG2.
