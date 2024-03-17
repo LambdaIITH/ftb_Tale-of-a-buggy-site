@@ -30,12 +30,12 @@ And finally, you get to the final secret that is waiting for you :)
 
 ## Hints-
 
-###BUG1-fix the import issue.
+### BUG1-fix the import issue.
 
-###BUG2-css fix.
+### BUG2-css fix.
 
-###BUG3-Understand the animation code written properly.
+### BUG3-Understand the animation code written properly.
 
-###BUG4-Analyze the codebase again.
+### BUG4-Analyze the codebase again.
 
-###BUG5-css fix. Note- BUG5 not similar to BUG2.
+### BUG5-css fix. Note- BUG5 not similar to BUG2.
